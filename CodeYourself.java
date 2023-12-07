@@ -72,3 +72,26 @@ class Person{
     }
 }
 
+/* Ideas for “actions”
+Count to 100
+Count to your age
+Find smallest of three numbers
+Find average of three numbers
+Find sum of three numbers
+Check if integer is positive or negative
+Add two strings together
+Convert a string to ALL CAPS
+Remove all spaces in a string
+Remove duplicate characters from a string
+Find middle character in string
+Find the character that occurs the most in a string
+Count all vowels in a string
+Check if two strings start with the same character
+Print words in a string
+Print a Christmas Tree (or diamond or triangle)
+Check if a year is a leap year
+Display the current date and time
+Convert inches to centimeters
+ */ 
+
+
